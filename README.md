@@ -31,15 +31,15 @@ KiCad 6.0 is used for the pcb design, based on:
 
 **Required KiCad libraries:**
 
-- [ai03's KiCad Type-C library](https://github.com/ai03-2725/Type-C.pretty) (USB-C 2.0 connector)
-- [ebastler's kicad components](https://github.com/ebastler/kicad-keyboard-parts.pretty) (MCU and RGB LED footprints and 3D models)
-- [ai03's hybrid footprints](https://github.com/ai03-2725/MX_Alps_Hybrid/tree/master/Kailh_Choc.pretty) (Kailh Hotswap footprints)
-- [ai03's random components](https://github.com/ai03-2725/random-keyboard-parts.pretty) (Reset button footprint)
+- [ai03's KiCad Type-C library](https://github.com/ai03-2725/Type-C.pretty) (USB-C 2.0 connector) [Git-Submodule]
+- [marbastlib KiCad 6.x libraries](https://github.com/ebastler/marbastlib/tree/untested) (MCU, RGB LED and MX/Choc library) [Git-Submodule]
+- [Perigoso's KiCad 6.x libraries](https://github.com/perigoso/keyswitch-kicad-library) (MX and Choc Switches) [**KiCad 6.0 Plugin**]
 
 **Optional KiCad libraries:**
 
-- [marbastlib KiCAD 6.0 libraries](https://github.com/ebastler/marbastlib/tree/untested) (Library collecting MX and Choc style footprints)
-- [Perigoso's KiCad Keyboard libraries](https://github.com/perigoso/keyswitch-kicad-library) (Alternative MX & Kailh Choc V1 footprints)
+- [ebastler's kicad 5.x components](https://github.com/ebastler/kicad-keyboard-parts.pretty) (MCU and RGB LED footprints and 3D models) [Git-Submodule]
+- [ai03's hybrid footprints](https://github.com/ai03-2725/MX_Alps_Hybrid/tree/master/Kailh_Choc.pretty) (Kailh Hotswap footprints) [Git-Submodule]
+- [ai03's random components](https://github.com/ai03-2725/random-keyboard-parts.pretty) (Reset button footprint) [Git-Submodule]
 
 Autocad, Rhino and Fusion 360 are used for the case design.
 
