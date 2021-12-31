@@ -31,9 +31,9 @@ KiCad 6.0 is used for the pcb design, based on:
 
 **Required KiCad libraries:**
 
-- [ai03's KiCad Type-C library](https://github.com/ai03-2725/Type-C.pretty) (USB-C 2.0 connector) [Git-Submodule]
-- [marbastlib KiCad 6.x libraries](https://github.com/ebastler/marbastlib/tree/untested) (MCU, RGB LED and MX/Choc library) [Git-Submodule]
-- [Perigoso's KiCad 6.x libraries](https://github.com/perigoso/keyswitch-kicad-library) (MX and Choc Switches) [**KiCad 6.0 Plugin**]
+- [ai03's KiCad Type-C symbol](https://github.com/ai03-2725/Type-C.pretty) (HRO-TYPE-C-31-M-12 connector) [Git-Submodule]
+- [marbastlib KiCad 6.x library](https://github.com/ebastler/marbastlib/tree/untested) (MCU, RGB LED and MX/Choc switches) [Git-Submodule]
+- [Perigoso's KiCad 6.x footprints](https://github.com/perigoso/keyswitch-kicad-library) (MX and Choc switches) [**KiCad 6.0 Plugin**]
 
 **Optional KiCad libraries:**
 

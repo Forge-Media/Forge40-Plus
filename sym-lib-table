@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
+)
