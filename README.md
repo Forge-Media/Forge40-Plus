@@ -28,6 +28,8 @@ KiCad 6.0 is used for the pcb design, based on:
 - [ebastler's ZMK design guide](https://github.com/ebastler/zmk-designguide) | [Archived](https://web.archive.org/web/20210223222617/https://github.com/ebastler/zmk-designguide) | [Archived Mirror](https://imgur.com/D1a6lrI)
 - [NiceNano V2 Schematics](https://nicekeyboards.com/docs/nice-nano/pinout-schematic)
 - [ai03's guide](https://wiki.ai03.com/books/pcb-design)
+- [Plut0nium's BQ24075 charging circuit](https://github.com/plut0nium/0x32)
+- [SparkFun's BQ24075 battery manager](https://www.sparkfun.com/products/13777)
 
 **Required KiCad libraries:**
 
